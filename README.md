@@ -26,11 +26,24 @@ pip install Pylons
 
 ### Deploying on local host 
 
+$cd WebDocSearch
+
 $paster serve --reload development.ini
 
 on your browser go to 
 http://127.0.0.1:5000/
 
+
+
+## ABout 
+Workspace/data    contains   all the data  files in formats like pdf csv docx txt  jpg gif png 
+
+
+* screenshot1
+![Screen shot](https://raw.githubusercontent.com/rishabhsixfeet/WebDocSearch/master/Screenshot2.png)
+
+* screenshot2
+![Screen shot 2](https://github.com/rishabhsixfeet/WebDocSearch/blob/master/Screenshot%20from1.png)
 
 
 
